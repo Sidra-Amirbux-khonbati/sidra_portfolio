@@ -30,6 +30,7 @@ I'm a passionate Software Engineering student with an interest in frontend devel
 - Multisim
 - VMware
 - PostgreSQL
+- Flutter
 
 
 ## 📚 Currently Learning
