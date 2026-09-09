@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Sidra AmirBux Khonbati
 
-🎓 Software Engineering Student at SZABIST University  
-💻 Frontend Developer | Problem Solver | Tech Enthusiast  
-📍 Karachi, Pakistan  
+🎓 Software Engineering Student at SZABIST University
+💻 Full-Stack Developer | Problem Solver | Tech Enthusiast
+📍 Karachi, Pakistan
 
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineering student with an interest in frontend development, problem-solving, and creating user-friendly applications. I enjoy learning new technologies and applying them in projects that improve real-world experiences.
+I'm a Software Engineering student passionate about full-stack development, problem-solving, and building applications that solve real-world problems. I enjoy working across the stack — from Flutter frontends to Node.js/PostgreSQL backends — and applying what I learn to practical, user-facing projects.
 
 
 ## 🛠️ Tech Stack
@@ -17,56 +17,93 @@ I'm a passionate Software Engineering student with an interest in frontend devel
 ### Languages
 - C
 - Java
-- JavaScript
-- SQL
-- HTML
-- CSS
+- JavaScript (ES6+)
+- Dart
+- SQL / PostgreSQL
+- HTML5
+- CSS3
+- Assembly
 
-### Tools & Technologies
+### Frameworks & Tools
+- Flutter
+- Node.js & Express.js
+- REST APIs
 - Git & GitHub
 - Visual Studio Code
 - IntelliJ IDEA
+- VMware
+- Postman
 - EMU 8086
 - Multisim
-- VMware
-- PostgreSQL
-- Flutter
+
+### Concepts
+- MVC Architecture
+- Database Transactions
+- DBMS & Schema Normalization
+- OS Kernels & Multithreading
+- System Architecture & DFDs
 
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Frontend Development
-- Flutter
-- Database Systems
+- Advanced Software Design & Architecture
+- Software Requirements Engineering
+- Operating Systems
+- Cloud & Backend Scalability
 
 
 ## 💼 Experience
 
-### Frontend Developer Intern
-Worked on responsive websites using HTML, CSS, and JavaScript with focus on UI design and mobile responsiveness.
+### Information Technology Intern — HBL Innovation & IT Center
+*Onsite | Jul 2026 | 6 Weeks*
+Gained hands-on exposure to enterprise IT practices in a banking environment. Designed and developed a full-stack digital banking and utility bill payment system using Flutter, Node.js/Express, and PostgreSQL — implementing REST APIs, relational database design, and transaction processing (BEGIN/COMMIT/ROLLBACK) for banking operations.
 
-### Programming Intern (C)
-Worked on problem-solving and programming concepts using C.
+### Frontend Developer Intern — Apexify Technologies
+*Remote | Jun 2025*
+Developed responsive calculator and portfolio websites using HTML, CSS, and JavaScript, applying responsive design principles for user-friendly interfaces.
 
-### Brand Ambassador
-Supported digital engagement and audience outreach activities.
+### Programming Intern (C) — Certura
+*Remote | Jul 2025*
+Strengthened C programming through hands-on implementation of loops, arrays, and problem-solving exercises.
+
+### Brand Ambassador — DataCrumbs
+*Remote | Sept 2025*
+Represented the organization, engaged with audiences, and supported brand visibility initiatives.
 
 
 ## 🌟 Featured Projects
 
+### 🏦 Digital Banking & Utility Bill Payment System
+`Flutter` `Node.js` `PostgreSQL` `pdf-parse` `Regex`
+A 3-role fintech platform (Customer, Company, Admin) with a Flutter frontend and Node.js/Express REST APIs. Automates customer onboarding by extracting data from uploaded PDF account-opening forms, auto-creates accounts, and sends confirmation emails via Nodemailer. Includes QR-based money transfer, overdue/fine bill logic, PDF receipt generation, and atomic balance updates via database transactions.
+
+### 💱 Currency Converter
+`Flutter` `Dart` `REST API` `JSON`
+A responsive Flutter web app for live currency conversion with search by name/code, source-target swapping, and a clean dark-theme interface, structured into model/service/screen layers.
+
+### 📈 Batch-wise Academic Performance Analyzer
+`Node.js` `Express.js` `Alpine.js` `PostgreSQL (NeonDB)`
+A lightweight full-stack application with an optimized PostgreSQL database to automate and analyze student GPA processing.
+
 ### 🆘 CrisisConnect
-A crisis support platform with emergency information and AI-based guidance.
+`APAC Solution Challenge 2025`
+A crisis-support platform with emergency information, chatbot guidance, and mental health awareness features.
+
+### 🔔 Multi-Threaded Notification Engine
+`OS Kernels` `Multithreading` `VMware Ubuntu Linux`
+A concurrent server applying CPU scheduling algorithms to optimize alert delivery.
 
 ### 👥 HR Management System
-Java-based employee management system using OOP concepts.
+`Java` `OOP` `DSA`
+Java-based employee management system implementing registration, salary, and entry/exit tracking using OOP and DSA concepts.
 
 ### 🍽️ Restaurant Management System
-8086 Assembly-based menu and billing management project.
+`Assembly` `EMU 8086`
+Menu handling and billing logic built in 8086 assembly language.
 
 ### 🎮 Browser Games Suite
-Interactive games including Tic Tac Toe and Rock Paper Scissors.
+`HTML` `CSS` `JavaScript`
+Interactive browser games — Tic Tac Toe and Rock Paper Scissors — built with vanilla JavaScript and DOM manipulation.
 
 
 ## 📈 GitHub Stats
